@@ -10,3 +10,8 @@ NOTE: "12°C" reads as "12 degrees Celsius".
 
 
 // type your code below
+
+var celsius = 12;
+var fahrenheit = celsius * 1.8 + 32;
+console.log(fahrenheit);
+53.6
